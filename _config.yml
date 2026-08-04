@@ -1,6 +1,3 @@
-title: Claude Code + 9Router Architecture and Multi-Model Combo Design Guide
-description: Explain a practical architecture for using Claude Code in the terminal, with 9Router acting as a local multi-provider gateway and three model chains serving the Opus, Sonnet, and Haiku roles.
-This document is written for readers who have no prior knowledge of 9Router, Claude Code, or the reasons this combination was selected.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
