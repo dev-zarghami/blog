@@ -1187,20 +1187,3 @@ Comboهای نهایی نیز بر این اصل ساخته شده‌اند:
   https://opencode.ai/docs/providers/
 
 ---
-
-## پیوست: چک‌لیست تحویل به فرد دیگر
-
-- [ ] 9Router نصب و اجرا شده است.
-- [ ] Dashboard 9Router در دسترس است.
-- [ ] providerها و credentialها تست شده‌اند.
-- [ ] سه Combo با نام دقیق ایجاد شده‌اند.
-- [ ] ترتیب modelها بررسی شده است.
-- [ ] Claude Code نصب شده است.
-- [ ] `ANTHROPIC_BASE_URL` روی endpoint محلی قرار دارد.
-- [ ] `ANTHROPIC_AUTH_TOKEN` واقعی فقط در محیط امن ذخیره شده است.
-- [ ] aliasهای Opus، Sonnet و Haiku به Comboها نگاشت شده‌اند.
-- [ ] هر Combo جداگانه تست شده است.
-- [ ] fallback کنترل‌شده تست شده است.
-- [ ] log و usage بررسی شده‌اند.
-- [ ] providerهای مجاز برای code حساس مشخص شده‌اند.
-- [ ] هیچ secret واقعی در مستند یا Git قرار نگرفته است.
